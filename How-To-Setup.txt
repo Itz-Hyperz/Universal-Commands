@@ -1,0 +1,22 @@
+-----------------  This Bug Report Script Was Developed By Benjamin M. (Benjamin M. | MS#6432)  -----------------
+--------------------------------------  This script is 100% free to use!  ---------------------------------------
+
+
+How To Setup:
+1. Open config.lua
+-- For Discord Logging --
+2. Edit the Color, Title, Command, Error Response Message or Success Response Message to whatever you wish or leave default and click Save.
+3. Go to Discord.
+4. Create A Channel For Submissions To Be Sent To (E.g. #bugs).
+5. Go To Server Settings.
+6. Go To Webhooks.
+7. Click Create Webhook.
+8. Choose The Webhook Name, Icon, and the channel you wish to link it to (e.g. #bugs).
+9. Copy The Webhook URL and click Save.
+10. Open config.lua
+11. Paste Your Webhook URL in Config.webHookURL = "Paste Webhook URL Here" and click Save.
+-- For Creating Commands --
+12. Create the command name, subjest, color, response, if it responds, and if it is global. (Find More Details And Advanced Tutorial At https://youtu.be/AdJhIIIG8ZI
+12. Move Universal-Commands Folder into Resources
+13. Add start Universal-Commands in server.config
+14. Your Good To Go!
