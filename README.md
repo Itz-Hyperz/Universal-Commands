@@ -10,4 +10,4 @@ Contact: [logan@hyperz.dev](mailto:logan@hyperz.dev)
 ### Video:
 [](https://www.youtube.com/AdJhIIIG8ZI)
 
-[![Original YouTube Video](https://img.youtube.com/vi/AdJhIIIG8ZI/0.jpg)](https://www.youtube.com/watch?v=AdJhIIIG8ZI)
+[![Original YouTube Video](https://imgvol.cdn.lcpdfr.com/uploads/monthly_2019_07/0_20190423150745_1.png.795a6eaf950c9f9c8a4e01ae9027efb4.png)](https://www.youtube.com/watch?v=AdJhIIIG8ZI)
