@@ -4,7 +4,7 @@ So here is this script, if he wants me to remove it, I will gladly do so.
 
 Contact: [logan@hyperz.dev](mailto:logan@hyperz.dev)
 
-- Original Author: [Matrix Solutions]()
+- Original Author: [Matrix Solutions](https://www.youtube.com/channel/UC9rVSNYO1CoxVXyPPBPi87Q)
 - Re-upload Author: [Hyperz](https://hyperz.dev)
 
 ### Video:
